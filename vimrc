@@ -25,6 +25,4 @@ set incsearch
 set hlsearch
 
 set listchars=tab:»■,trail:■
-
 set list
-
